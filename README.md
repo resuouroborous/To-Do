@@ -33,10 +33,10 @@
 ## 📂 How to Use
 - To run this project locally, simply download the repository and open the index.html file in your web browser.
 
-## Clone the repository (optional)
+### Clone the repository (optional)
 git clone https://github.com/resuouroborous/To-Do.git
 
-## Navigate to the project directory
+### Navigate to the project directory
 cd To-Do
 
-## Open index.html in your browser
+ ### Open index.html in your browser
